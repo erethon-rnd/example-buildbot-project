@@ -146,3 +146,5 @@ The following instances integrated with Gitea:
 - **Clan infra**:
   [Configuration](https://git.clan.lol/clan/clan-infra/src/branch/main/modules/buildbot.nix)
   | [Instance](https://buildbot.clan.lol/)
+
+Testing buildbot PR
