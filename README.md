@@ -147,4 +147,4 @@ The following instances integrated with Gitea:
   [Configuration](https://git.clan.lol/clan/clan-infra/src/branch/main/modules/buildbot.nix)
   | [Instance](https://buildbot.clan.lol/)
 
-Buildbot diff testing hook
+Buildbot diff testing hook and extra resources
